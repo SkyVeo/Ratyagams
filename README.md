@@ -11,5 +11,5 @@ Ratyagams is a school project and a prototype for a mobile app that allows gamer
 
 # Tech Stack
 - Frontend: React Native combined with Ant Design
-- Backend: Custom backend utilizing [API project link] to handle game data and user interactions
-- Database: PostgreSQL
+- Backend: Managed through an [custom API](https://github.com/Umdromil14/APIProject)
+- Back Office: Managed through a [dedicated back office](https://github.com/Umdromil14/backoffice)
